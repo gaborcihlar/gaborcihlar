@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png" height="40" alt="rust logo"  />
+  <img src="https://owen.cafe/img/rust-anim-d.svg" height="40" alt="rust logo"  />
 </div>
 
 ###
